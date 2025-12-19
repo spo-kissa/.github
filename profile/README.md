@@ -2,7 +2,7 @@
 
 ## SPO Kissa Documentation
 
-[docs](https://github.com/spo-kissa/docs)
+[Documentation](https://docs.spo-kissa.org/) - [GitHub](https://github.com/spo-kissa/spo-kissa.github.io)
 
 
 ## cardano-airgap
